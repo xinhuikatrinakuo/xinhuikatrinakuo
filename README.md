@@ -2,8 +2,8 @@
 
 <h2>👩‍💻 Business Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b></b>
+  - 
 
 <h2>📺 Popular YouTube Videos</h2>
 
