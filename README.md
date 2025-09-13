@@ -1,6 +1,6 @@
 <h1>Hi, I'm Katrina! </h1>
 
-<h2>👩‍💻 Business Analysis Projects:</h2>
+<h2>👩‍💻 Machine Learning Projects:</h2>
 
 - <b></b>
 
