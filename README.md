@@ -2,9 +2,7 @@
 
 <h2>👩‍💻 Machine Learning Projects:</h2>
 
-**Household Poverty Status Prediction Using LASSO**
-
-[Machine Learning Project with LASSO Regression in Python](https://github.com/xinhuikatrinakuo/WorldBankLASSOProject)
+[Household Poverty Status Prediction Using LASSO](https://github.com/xinhuikatrinakuo/WorldBankLASSOProject)
 
 - Built a predictive model to identify households likely to be in poverty using survey data (6,500+ samples, 346 features)
 - Cleaned and processed large datasets, transforming categorical data and standardizing features for modeling
