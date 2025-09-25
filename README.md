@@ -9,6 +9,8 @@
 - Applied LASSO regression to select key features, enabling the World Bank to target surveys more efficiently and reduce data collection costs
 - Achieved high model accuracy (Log Loss 0.287) and visualized top predictors to provide actionable insights for poverty reduction strategies
 
+P.S. `Final Project.ipynb` file is the required version submitted to the professor.
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
