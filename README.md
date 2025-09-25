@@ -2,8 +2,8 @@
 
 <h2>👩‍💻 Machine Learning Projects:</h2>
 
-[Household Poverty Status Prediction Using LASSO](https://github.com/xinhuikatrinakuo/WorldBankLASSOProject)
-
+[Household Poverty Status Prediction Using LASSO](https://github.com/xinhuikatrinakuo/WorldBankLASSOProject) | _Python, Data Analysis, Machine Learning_
+<br>
 - Built a predictive model to identify households likely to be in poverty using survey data (6,500+ samples, 346 features)
 - Cleaned and processed large datasets, transforming categorical data and standardizing features for modeling
 - Applied LASSO regression to select key features, enabling the World Bank to target surveys more efficiently and reduce data collection costs
@@ -13,8 +13,14 @@ P.S. `Final Project.ipynb` file is the required version submitted to the profess
 
 <h2> 📹 Other Projects:</h2>
 
-[Surprise Proposal Video](https://github.com/xinhuikatrinakuo/proposalvideo)
+<h3>Youtube</h3>
 
+[Surprise Proposal Video](https://github.com/xinhuikatrinakuo/proposalvideo) | _Videographer & Editor_
+
+- Produced a surprise engagement proposal video from start to finish in a single day
+- Planned the shoot strategically: researched angles and shots online, prepared backup shots, and documented the full timeline in Google Docs to ensure flawless execution
+- Filmed the proposal in the morning, edited the footage throughout the afternoon, and delivered the final video for the evening engagement party
+- Captured the emotions and key moments, creating an unforgettable memory for the couple and guests
 
 <h2> 🤳 Connect with me:</h2>
 
