@@ -13,7 +13,7 @@ P.S. `Final Project.ipynb` file is the required version submitted to the profess
 
 <h2> 📹 Other Projects:</h2>
 
-[Engagement Proposal Video]()
+[Surprise Proposal Video](https://github.com/xinhuikatrinakuo/proposalvideo)
 
 
 <h2> 🤳 Connect with me:</h2>
