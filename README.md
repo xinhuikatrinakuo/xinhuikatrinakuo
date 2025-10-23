@@ -15,10 +15,11 @@ P.S. `Final Project.ipynb` file is the required version submitted to the profess
 
 [Evaluating Anti-Steering Provisions in Two-Sided Markets: Lessons from American Express](https://github.com/xinhuikatrinakuo/amex-anti-steering-paper) | _Industrial Organization, Antitrust Economics, Policy Analysis_
 <br>
-- Examined the Supreme Court’s ***Ohio v. American Express*** decision and its impact on antitrust enforcement in two-sided markets  
-- Analyzed how **anti-steering provisions** shape competition among payment networks and influence merchant–consumer dynamics  
-- Discussed broader implications for **digital platforms** (e.g., Apple Pay, Google Play) under similar market structures  
-- Integrated economic theory, case law, and policy reasoning to evaluate potential regulatory approaches for multi-sided markets  
+- Examined the Supreme Court’s ***Ohio v. American Express (2018)*** decision and how it redefined market definition and burden of proof in two-sided platform cases  
+- Analyzed **Amex’s closed-loop business model** and how its **anti-steering provisions** sustained high merchant fees while funding cardholder rewards
+- Evaluated the economic trade-offs between platform coordination and competitive openness using **Rochet & Tirole’s two-sided market theory**
+- Compared U.S. and EU approaches (e.g., _Epic v. Apple_, _Google Shopping_) to highlight diverging antitrust treatment of digital platforms
+- Integrated economic theory, clegal reasoning, and policy critique to argue that Amex raised the enforcement bar and complicated regulation of multi-sided markets
 
 P.S. `Research Paper.pdf` file is the required version submitted to the professor.
 
