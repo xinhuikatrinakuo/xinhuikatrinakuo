@@ -20,6 +20,8 @@ P.S. `Final Project.ipynb` file is the required version submitted to the profess
 - Discussed broader implications for **digital platforms** (e.g., Apple Pay, Google Play) under similar market structures  
 - Integrated economic theory, case law, and policy reasoning to evaluate potential regulatory approaches for multi-sided markets  
 
+P.S. `Research Paper.pdf` file is the required version submitted to the professor.
+
 <h2> 📹 Other Projects:</h2>
 
 <h3>Youtube</h3>
