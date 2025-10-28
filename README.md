@@ -19,7 +19,7 @@ P.S. `Final Project.ipynb` file is the required version submitted to the profess
 - Analyzed **Amex’s closed-loop business model** and how its **anti-steering provisions** sustained high merchant fees while funding cardholder rewards
 - Evaluated the economic trade-offs between platform coordination and competitive openness using **Rochet & Tirole’s two-sided market theory**
 - Compared U.S. and EU approaches (e.g., _Epic v. Apple_, _Google Shopping_) to highlight diverging antitrust treatment of digital platforms
-- Integrated economic theory, clegal reasoning, and policy critique to argue that Amex raised the enforcement bar and complicated regulation of multi-sided markets
+- Integrated economic theory, legal reasoning, and policy critique to argue that Amex raised the enforcement bar and complicated regulation of multi-sided markets
 
 P.S. `Research Paper.pdf` file is the required version submitted to the professor.
 
